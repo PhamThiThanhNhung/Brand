@@ -5,6 +5,8 @@ import Header from './component/Header/Header.jsx';
 import Sidebar from './component/Sidebar/Sidebar.jsx';
 import Content from './component/Content/Content.jsx';
 import Product from './component/Product/Product.jsx';
+import Service from './component/Service/Service.jsx';
+
 
 function App() {
   return (
@@ -14,6 +16,7 @@ function App() {
       <Content/>
       <Product/>
       <Item/>
+      <Service/>
     </div>
   );
 }
