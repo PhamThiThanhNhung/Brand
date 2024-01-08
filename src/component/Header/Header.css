@@ -1,0 +1,14 @@
+.icon{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #8b96a5;
+  margin-right: 50px;
+  gap: 20px;
+}
+.navbar-info{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin-right: 50px;
+}

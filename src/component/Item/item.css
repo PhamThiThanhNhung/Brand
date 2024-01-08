@@ -1,0 +1,89 @@
+.item{
+    margin-top: 50px;
+}.col{
+    display: flex;
+    margin-left: 50px;
+    height: 350px;
+}
+.banner{
+    height: 400px;
+    /* background-image: url(../../asset/bg.png); */
+    background-color: rgb(0, 96, 192);
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+}
+.banner-info{
+    color: white;
+    margin: 150px 0px 50px 50px;
+    font-size: 20px;
+   
+}
+.ss-nav{
+    width: 550px;
+    height: 300px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 250px;
+    border-radius: 20px;
+    
+}
+.ssNav-text{
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 20px 15px;
+    
+}
+.input-one{
+    width: 440px;
+    height: 40px;
+    margin: 10px 15px;
+    border: 1px solid gainsboro;
+}
+.input-two{
+    width: 440px;
+    height: 75px;
+    margin: 10px 15px;
+    border: 1px solid gainsboro;
+}
+
+.input-three{
+    width: 210px;
+    height: 40px;
+    margin: 10px 15px;
+    border: 1px solid gainsboro;
+}
+.ssNav-icon{
+    width: 110px;
+    height: 40px;
+    border: 1px solid gainsboro;
+    
+}
+
+.ssNav-btn{
+    width: 120px;
+    height: 40px;
+    margin: 10px 15px;
+    background-color: rgb(8, 140, 255);
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+.bg{
+    width: 93%;
+    height: 400px;
+}
+.form{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: gray;
+}
+.image0{
+    width: 200px;
+    height: 280px;
+    margin: 0px 10px;
+    background-color: rgb(243, 241, 241);
+    box-shadow: 0px 4px 4px 0px #00000040;
+    
+}
