@@ -1,0 +1,15 @@
+.service{
+    margin-top: 40px;
+}.item-service{
+    margin-top: 20px;
+    display: flex;
+}.card{
+    /* background-image: url("../../asset/image\ .png"); */
+    margin-left: 50px;
+    border-radius: 10px;
+    opacity: 100%;
+
+}
+.card-text{
+    color: gray;
+}

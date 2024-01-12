@@ -6,6 +6,8 @@ import Sidebar from './component/Sidebar/Sidebar.jsx';
 import Content from './component/Content/Content.jsx';
 import Product from './component/Product/Product.jsx';
 import Service from './component/Service/Service.jsx';
+import Footer from './component/Footer/Footer.jsx';
+import Listitem from './component/ListItem/Listitem.jsx';
 
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
       <Product/>
       <Item/>
       <Service/>
+      <Listitem/>
+      <Footer/>
     </div>
   );
 }

@@ -14,7 +14,7 @@ const Product = () => {
   return (
     <div>
       <div style={{ marginLeft: 50, marginRight: 50 }}
-      className="section-sale d-flex border border-1 rounded mt-5 justify-content-between">
+      className="section-sale d-flex border border-1 rounded mt-4 justify-content-between">
         <img className="" src={Group} alt="" />
         <div>
           <div className="d-flex border-bottom">
